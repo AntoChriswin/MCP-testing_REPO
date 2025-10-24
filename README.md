@@ -1,4 +1,4 @@
-# MCP - SERVER - TESING
+# MCP - SERVER - TESTING
 
 this repo is created for testing the git-hub mcp server via claude desktop
 
