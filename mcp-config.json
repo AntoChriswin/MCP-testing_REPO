@@ -1,0 +1,28 @@
+{
+  "mcpServers": {
+    "AI notes": {
+      "command": "F:\\INtern\\demo mcp server\\.venv\\Scripts\\uv.EXE",
+      "args": [
+        "run",
+        "--with",
+        "mcp[cli]",
+        "mcp",
+        "run",
+        "F:\\INtern\\demo mcp server\\main.py"
+      ]
+    },
+    "Attendance_Report_Maker": {
+      "command": "F:\\INtern\\mcp_server2\\.venv\\Scripts\\python.exe",
+      "args": [
+        "F:\\INtern\\mcp_server2\\main.py"
+      ]
+    },
+     "google_drive": {
+       "command": "F:\\INtern\\gdrive-mcp-server\\.venv\\Scripts\\gdrive-mcp.exe",
+       "args": [
+       	 "--token",
+       	 "F:\\INtern\\gdrive-mcp-server\\tokens.json"
+    ]
+  }
+  }
+}
